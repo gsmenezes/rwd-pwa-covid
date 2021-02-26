@@ -1,7 +1,7 @@
 # Projeto: PWA com React para mapear os dados do COVID19
 
 Feito através do bootcamp React Web Developer da DIO. Instruções do Bruno Carneiro.
-![Print da tela](../public/screenshot.png)
+![Print da tela](screenshot.png)
 
 
 ### O que é uma PWA?
